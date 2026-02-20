@@ -1,0 +1,8 @@
+{
+  "name": "Sofa e cia - Gestão de RH Inteligente",
+  "description": "Plataforma completa de ponto digital com reconhecimento facial, geolocalização e automação de folha de pagamento baseada na legislação brasileira.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
